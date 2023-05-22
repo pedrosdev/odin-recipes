@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e9967a;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    list-style: none;
+    box-shadow: #e98155 5px 5px;
+}
+
+.recipe {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: #e98155;
+    text-decoration: none;
+}
+
+.recipe:hover {
+    background-color: #e9967a;
+    color: #ffffff;
+    box-shadow: #e98155 2px 2px;
+}
