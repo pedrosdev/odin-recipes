@@ -3,40 +3,37 @@
 }
 
 body {
+    max-width: 400px;
+    margin: 0 auto;
     background-color: #e9967a;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    text-align: center;
 }
 
 h1 {
-    color: #ffffff;
-    text-align: center;
     font-size: 40px;
+    color: #ffffff;
 }
 
 ul {
-    width: 50%;
-    margin: 0 auto;
-    padding: 10px;
-    background-color: #ffffff;
     border-radius: 10px;
-    list-style: none;
+    padding: 10px;
     box-shadow: #e98155 5px 5px;
+    background-color: #ffffff;
+    list-style: none;
 }
 
-.recipe {
-    padding: 5px;
+.recipe-link a {
+    display: block;
     border-radius: 5px;
+    padding: 5px 0;
     font-size: 20px;
-    text-align: center;
-}
-
-a {
     color: #e98155;
     text-decoration: none;
 }
 
-.recipe:hover {
+.recipe-link a:hover {
+    box-shadow: #e98155 2px 2px;
     background-color: #e9967a;
     color: #ffffff;
-    box-shadow: #e98155 2px 2px;
 }
