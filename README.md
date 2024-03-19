@@ -11,3 +11,4 @@ comfortable at working with text and including images and links in HTML pages.
 Original sauces:
 
 - [Karaage](https://www.allrecipes.com/recipe/8325387/karaage-japanese-fried-chicken/)
+- [Manju](https://www.justonecookbook.com/manju/)
