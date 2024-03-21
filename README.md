@@ -12,3 +12,4 @@ Original sauces:
 
 - [Karaage](https://www.allrecipes.com/recipe/8325387/karaage-japanese-fried-chicken/)
 - [Manju](https://www.justonecookbook.com/manju/)
+- [Sunomono](https://www.hungryhuy.com/sunomono-japanese-cucumber-salad-recipe/)
